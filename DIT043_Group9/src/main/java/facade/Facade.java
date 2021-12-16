@@ -1,3 +1,9 @@
+/*
+The tests and the façade's methods signatures were written by the Teaching team (Instructor and TAs) 
+for the DIT043 course at the Software Engineering and Management Program at the University of Gothenburg.
+Contact: Francisco Gomes.
+*/
+
 package facade;
 
 import BusinessLogic.*;
